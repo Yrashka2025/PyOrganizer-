@@ -1,7 +1,7 @@
 # PyOrganizer 🗂️
 
 > A simple Python tool to automatically organize your desktop files into categorized folders.
-
+## Disclaimer: Re-relise this project here: https://github.com/Yrashka2024/PyOrganizer
 
 ## ✨ Features
 
